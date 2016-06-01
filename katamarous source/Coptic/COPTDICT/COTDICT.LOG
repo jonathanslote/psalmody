@@ -1,0 +1,15 @@
+01/04/98 13:31:00: Starting build.
+01/04/98 13:31:00: Connecting to index.
+01/04/98 13:31:01: Searching: C:\COPTCD\COPTDICT
+01/04/98 13:31:01: Indexing 1 documents.
+01/04/98 13:31:02: Extracting from c:\coptcd\coptdict\coptdict.pdf.
+01/04/98 13:31:41: Removing index entries for changed or deleted documents.
+01/04/98 13:31:41: Removing unnecessary index entries.
+01/04/98 13:31:41: Building Word Assist List.
+01/04/98 13:31:49: Waiting for about 20 seconds to perform routine index update.
+01/04/98 13:32:10:   Total Acrobat files in all directories: 1
+01/04/98 13:32:10:   Total new files: 1
+01/04/98 13:32:10:   Total pages indexed: 174
+01/04/98 13:32:10:   Total number of files skipped: 0
+01/04/98 13:32:10:   Total deleted files: 0
+01/04/98 13:32:10: Index Build Successful.
