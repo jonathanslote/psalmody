@@ -1,0 +1,14 @@
+•	Add saint Psalis
+•	Add missing Psali translations
+•	Revise Psali translations
+•	Add footnotes of Scripture references
+•	Add other seasonal responses (e.g. Praxis response)—In process
+•	Add weekly Gospel responses?
+•	Add defnar or synaxarium? At least notes for where to insert
+•	heading 3 should start a new page. places where that's ugly should be demoted to heading 4…. Or make 2 versions of heading 3, one breaking, one not, and be selective
+•	Consider the effect of the drift that existed at the time of a saint’s departure. For example, a modern saint, is effectively on the Gregorian calendar. If the Coptic calendar is shifted to make correct, they should be shifted on the Coptic calendar, not the Gregorian. A 4th century saint was effectively on the Coptic, so if the Coptic is shifted, they should be shifted on the Gregorian, and remain the same on the Coptic. All times in between are somewhere in between, depending on the drift at the time. Add the correction as a 3rd possible date to use… 
+•	Replace “evlogite/evlogison” with Coptic font.
+•	Check if headers should be removed from some pages
+•	Check for bookmarks that have become corrupted as headings change
+•	Introduction
+•	Check new line consistency for Glory be to God forever. In non KJV books, switch to Glory to You O Lord.
